@@ -13,12 +13,19 @@ Dependencies
 The following dependencies are required to run the code:
 
 pandas
+
 numpy
+
 matplotlib
+
 seaborn
+
 scikit-learn
+
 hdbscan
+
 bertopic
+
 These dependencies can be installed using pip.
 
 Results
